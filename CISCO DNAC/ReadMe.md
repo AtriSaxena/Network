@@ -12,13 +12,13 @@ Watch video here: https://www.youtube.com/watch?v=zi6gKuF38eU
 # Requirement:
 
 * python 3.6 or higher
-* prettytable
+* prettytable : to print table
 * request: to make http request 
 
 Related blog: https://blogs.cisco.com/developer/python-scripting-apis 
 
 # Output
-
+```
 +-------------------+----------------+---------------+------------------+-----------------------+
 |      Hostname     |  Platform Id   | Software Type | Software Version |        Up Time        |
 +-------------------+----------------+---------------+------------------+-----------------------+
@@ -27,3 +27,4 @@ Related blog: https://blogs.cisco.com/developer/python-scripting-apis
 |  cat_9k_2.abc.inc |   C9300-24UX   |     IOS-XE    |      16.6.1      | 186 days, 22:12:24.02 |
 |   cs3850.abc.inc  | WS-C3850-48U-E |     IOS-XE    |     16.6.2s      |  183 days, 8:55:44.85 |
 +-------------------+----------------+---------------+------------------+-----------------------+
+```
