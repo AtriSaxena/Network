@@ -1,4 +1,4 @@
-##What is Cisco DNAC (Digital Network Architecture)?
+# What is Cisco DNAC (Digital Network Architecture)?
 Cisco® Digital Network Architecture (Cisco DNA™) is your team’s bridge to an intent-
 based network. It is an open, extensible, software-driven architecture that accelerates 
 and simplifies your enterprise network operations, while lowering costs and reducing your 
@@ -9,7 +9,7 @@ Read more here: https://www.cisco.com/c/dam/en/us/solutions/collateral/enterpris
 
 Watch video here: https://www.youtube.com/watch?v=zi6gKuF38eU
 
-##Requirement:
+# Requirement:
 
 * python 3.6 or higher
 * prettytable
@@ -17,7 +17,8 @@ Watch video here: https://www.youtube.com/watch?v=zi6gKuF38eU
 
 Related blog: https://blogs.cisco.com/developer/python-scripting-apis 
 
-##Output
+# Output
+
 +-------------------+----------------+---------------+------------------+-----------------------+
 |      Hostname     |  Platform Id   | Software Type | Software Version |        Up Time        |
 +-------------------+----------------+---------------+------------------+-----------------------+
